@@ -9,7 +9,7 @@ namespace exercise_2_1_1
             
             int[] array = new int[6] { 5, 2, 4, 6, 1, 3 };
 
-            array = SortMethods.InsertionSort(array);
+            array = SortMethod.InsertionSort(array);
 
             foreach (var i in array)
             {

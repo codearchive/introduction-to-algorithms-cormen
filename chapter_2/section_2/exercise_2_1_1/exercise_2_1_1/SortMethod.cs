@@ -1,6 +1,6 @@
 ﻿namespace exercise_2_1_1
 {
-    public static class SortMethods
+    public static class SortMethod
     {
         public static int[] InsertionSort(int[] array)
         {

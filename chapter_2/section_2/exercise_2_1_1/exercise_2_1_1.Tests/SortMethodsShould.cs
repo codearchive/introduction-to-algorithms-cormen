@@ -14,7 +14,7 @@ namespace exercise_2_1_1.Tests
             //Act
 
             //Assert
-            Assert.Equal(expectedArray, SortMethods.InsertionSort(inputArray));
+            Assert.Equal(expectedArray, SortMethod.InsertionSort(inputArray));
         }
     }
 }
